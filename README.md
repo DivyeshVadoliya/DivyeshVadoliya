@@ -1,5 +1,49 @@
 ## Hi there, I'm Divyesh <img src="./hi.gif" width="40"/>
 
+<a href="https://github.com/DivyeshVadoliya" >
+    <div align="center">
+        <picture alt="Stats">
+            <source
+                srcset="https://github-readme-stats.vercel.app/api?username=DivyeshVadoliya&hide_border=true&rank_icon=percentile&show_icons=true&theme=dark"
+                media="(prefers-color-scheme: dark)"
+                height="180em"
+            />
+            <source
+                srcset="https://github-readme-stats.vercel.app/api?username=DivyeshVadoliya&hide_border=true&rank_icon=percentile&show_icons=true"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                height="180em"
+            />
+            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DivyeshVadoliya&hide_border=true&rank_icon=percentile&show_icons=true&theme=transparent" />
+        </picture>
+        <picture alt="Top Languages">
+            <source
+                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DivyeshVadoliya&hide_border=true&layout=compact&langs_count=8&theme=dark"
+                media="(prefers-color-scheme: dark)"
+                height="180em"
+            />
+            <source
+                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DivyeshVadoliya&hide_border=true&layout=compact&langs_count=8"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                height="180em"
+            />
+            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DivyeshVadoliya&hide_border=true&layout=compact&langs_count=8&theme=transparent" />
+        </picture>
+        <picture alt="GitHub Streak">
+            <source
+                srcset="https://github-readme-streak-stats.devworks.co.in?user=DivyeshVadoliya&hide_border=true&theme=dark"
+                media="(prefers-color-scheme: dark)"
+                height="180em"
+            />
+            <source
+                srcset="https://github-readme-streak-stats.devworks.co.in?user=DivyeshVadoliya&hide_border=true"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                height="180em"
+            />
+            <img height="180em" src="https://github-readme-streak-stats.devworks.co.in?user=DivyeshVadoliya&hide_border=true&theme=transparent" />
+        </picture>
+    </div>
+</a>
+
 ## About Me
 
 -   💼 Software Developer and Help and Work with DevClick Technology
