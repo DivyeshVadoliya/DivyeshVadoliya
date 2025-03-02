@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+# 👋 Hi, I'm [DivyeshVadoliya]!
+
+- 🚀 Laravel Livewie & Alpine.js Develope.
+- 🌱 Currently learning advanced Laravel and livewire optimization
+- 🎯 Working on billing reports & import fixes
+- 🏡 Based in [Rajkot]
+
 <!--
 **DivyeshVadoliya/DivyeshVadoliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
