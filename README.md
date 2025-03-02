@@ -16,7 +16,7 @@
 -   **Version Control:** Experience with Git version control systems (GitHub, GitLab) 🗂️
 -   **Frontend Development:** Building dynamic and interactive interfaces using Laravel Livewire, Tailwind CSS, Alpine.js, HTML5, CSS3, SASS/SCSS, Bootstrap, and jQuery 🎨
 
-## Why Choose Me for Your Next Project?
+## Project Skill
 
 -   🔹 **Full-Stack Capabilities:** Strong foundation in both back-end and front-end development, handling all aspects of your project efficiently. ✅
 -   🔸 **Experience & Expertise:** 2.5+ years of experience in building robust backend logic, APIs, integrating with various technologies.
