@@ -8,7 +8,7 @@
 -   🌱 Currently working livewire
 -   🔥 Passionate Laravel developer with over 2.5 years of experience crafting secure and scalable web applications
 
-## Skills <img src="./images/code.gif" width="20"/>
+## Skills <img src="./code.gif" width="20"/>
 
 -   **Backend Development:** Building robust backend logic and APIs 🛠️
 -   **Code Quality:** Implementing clean and maintainable code 🧹
