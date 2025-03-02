@@ -1,4 +1,4 @@
-## Hi there, I'm Divyesh <img src="./images/hi.gif" width="40"/>
+## Hi there, I'm Divyesh <img src="./hi.gif" width="40"/>
 
 ## About Me
 
