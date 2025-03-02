@@ -52,7 +52,7 @@
 -   🌱 Currently working livewire
 -   🔥 Passionate Laravel developer with over 2.5 years of experience crafting secure and scalable web applications
 
-## Skills <img src="./code.gif" width="20"/>
+## Skills <img src="./code.gif" width="30"/>
 
 -   **Backend Development:** Building robust backend logic and APIs 🛠️
 -   **Code Quality:** Implementing clean and maintainable code 🧹
@@ -60,7 +60,7 @@
 -   **Version Control:** Experience with Git version control systems (GitHub, GitLab) 🗂️
 -   **Frontend Development:** Building dynamic and interactive interfaces using Laravel Livewire, Tailwind CSS, Alpine.js, HTML5, CSS3, SASS/SCSS, Bootstrap, and jQuery 🎨
 
-## Project Skills
+## My Key Strengths as a Developer <img src="./fire.gif" width="30"/>
 
 -   🔹 **Full-Stack Capabilities:** Strong foundation in both back-end and front-end development, handling all aspects of your project efficiently. ✅
 -   🔸 **Experience & Expertise:** 2.5+ years of experience in building robust backend logic, APIs, integrating with various technologies.
