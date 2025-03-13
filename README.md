@@ -9,6 +9,11 @@
                 height="180em"
             />
             <source
+                srcset="https://github-readme-stats.vercel.app/api?username=YouNegotiate&hide_border=true&rank_icon=percentile&show_icons=true&theme=dark"
+                media="(prefers-color-scheme: dark)"
+                height="180em"
+            />
+            <source
                 srcset="https://github-readme-stats.vercel.app/api?username=DivyeshVadoliya&hide_border=true&rank_icon=percentile&show_icons=true"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                 height="180em"
